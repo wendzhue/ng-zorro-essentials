@@ -1,0 +1,31 @@
+{
+  "name": "ng-zorro-essentials",
+  "displayName": "NG-ZORRO Essentials",
+  "description": "vscode extensions recommended for developing Angular and ng-zorro-antd.",
+  "publisher": "Wendell",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wendzhue/ng-zorro-essentials"
+  },
+  "engines": {
+    "vscode": "^1.37.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "angular.ng-template",
+    "infinity1207.angular2-switcher",
+    "wendell.atom-one-dark-theme-underlined",
+    "cipchk.ng-zorro-vscode"
+  ],
+  "icon": "icon.png",
+  "keywords": [
+    "angular",
+    "antd",
+    "developement",
+    "ng-zorro-antd",
+    "ng-zorro"
+  ]
+}
